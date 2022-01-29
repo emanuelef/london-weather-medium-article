@@ -1,9 +1,3 @@
----
-layout: page
-title: EDA on Meteo Data
-permalink: /EDA on Meteo Data
----
-
 ## Introduction
 
 This Notebook shows how to perform a quick analysis on simple time series by using basic Pandas and Seaborn commands to generate heatmaps.
